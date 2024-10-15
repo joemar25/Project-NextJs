@@ -6,6 +6,10 @@
 
 ---
 
+## Analytics
+
+![Alt](https://repobeats.axiom.co/api/embed/8389dcb173b4ef34d879f9be04ab61c6e5b0ea80.svg "Analytics image")
+
 ## Table of Contents
 
 1. [Features](#features)
